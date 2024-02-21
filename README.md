@@ -11,7 +11,7 @@ With RFM analysis, you can determine what percentage of your customers support t
 
 Predicting future customer behavior through RFM analysis can help businesses understand how likely customers will purchase another product or service and how much they will spend.
 
-For example, you can improve your email marketing success rates by understanding your target audience. Then, can effectively segment them to send personalized emails and offers that are most likely to convert, leading to increased retention rate, customer satisfaction, and sales.
+For example, you can improve your email marketing success rates by understanding your target audience. Then, we can effectively segment them to send personalized emails and offers that are most likely to convert, leading to increased retention rate, customer satisfaction, and sales.
 
 **Source:**
 
